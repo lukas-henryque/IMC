@@ -5,4 +5,5 @@ coloquei os dois campos para inseir os dados peso e altura, obriatoriedade de po
 
 
 
-![image](https://github.com/user-attachments/assets/8502c379-8a48-4437-8fae-e6741f37608d)
+![image](https://github.com/user-attachments/assets/c24b0ae1-3db2-48c4-ae38-2ab4b3e13c03)
+
